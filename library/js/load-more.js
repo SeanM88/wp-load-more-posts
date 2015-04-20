@@ -67,7 +67,7 @@ jQuery(document).ready(function($) {
 				}
 			);
 		} else {
-			$('#wp-load-more-btn').append('.');
+			$('#wp-load-more-btn').fadeOut();
 		}	
 		
 		return false;
