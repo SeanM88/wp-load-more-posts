@@ -10,10 +10,13 @@ WP Load More Posts is a simple and light-weight plugin for easily adding a Load 
 
 == Description ==
 
-TODO
+WP Load More Posts is a simple and light-weight plugin for easily adding a Load More Posts button to your WordPress blog posts.  It provides quick and easy options for integrating the Load More Posts button seamlessly into your site's existing design.
 
 == Installation ==
 1. Upload the wp-load-more-posts plugin folder to your /wp-content/plugins/ directory.
 2. Activate the plugin through the \'Plugins\' menu in WordPress.
 3. From the \'Plugins\' menu, click the \'Settings\' link to configure Load More Posts to work with you site.
 4. Done!
+
+== Screenshots ==
+1. WP Load More Posts settings page.
